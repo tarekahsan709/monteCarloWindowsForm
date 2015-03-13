@@ -35,21 +35,12 @@ namespace carlosForm
         {
 
             radius = Int32.Parse(inputText.Text);
-            //MessageBox.Show(this.inputText.Text);
             Form1 obj = new Form1();
             result = obj.getPai(radius);
             labelPai.Text = "Average of Pai=" + this.result;
 
 
-            //Pen blackPen = new Pen(Color.Black);
-            //graph.DrawLine(blackPen, 0, 200, 250, 200);
-            //graph.DrawLine(blackPen, 0, 200, 0, 0);
-            //Rectangle rect = new Rectangle(0, 100, 50, 100);
-
-
-            ////graph.DrawEllipse(blackPen, rect);
-
-            //graph.DrawArc(blackPen, 40, 40, 40, 40, 180, -180);
+           
         
 
            

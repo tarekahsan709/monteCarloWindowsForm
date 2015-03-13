@@ -8,3 +8,13 @@ c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlos
 c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.exe
 c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.pdb
 c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.Form2.resources
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\bin\Debug\carlosForm.exe.config
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\obj\Debug\carlosForm.exe
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\obj\Debug\carlosForm.pdb
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\bin\Debug\carlosForm.exe
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\bin\Debug\carlosForm.pdb
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\obj\Debug\carlosForm.csprojResolveAssemblyReference.cache
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\obj\Debug\carlosForm.Form1.resources
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\obj\Debug\carlosForm.Form2.resources
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\obj\Debug\carlosForm.Properties.Resources.resources
+C:\Users\Nazmul\Desktop\monteCarloWindowsForm\carlosForm\obj\Debug\carlosForm.csproj.GenerateResource.Cache

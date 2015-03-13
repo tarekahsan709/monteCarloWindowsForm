@@ -20,7 +20,6 @@ namespace carlosForm
 
         public void showGraph()
         {
-            //label1.Text = "tarek ahsan";          
 
         }
 
