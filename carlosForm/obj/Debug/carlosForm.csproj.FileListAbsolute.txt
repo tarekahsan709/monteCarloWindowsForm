@@ -1,0 +1,10 @@
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\bin\Debug\carlosForm.exe.config
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\bin\Debug\carlosForm.exe
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\bin\Debug\carlosForm.pdb
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.csprojResolveAssemblyReference.cache
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.Form1.resources
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.Properties.Resources.resources
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.csproj.GenerateResource.Cache
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.exe
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.pdb
+c:\users\tarek\documents\visual studio 2013\Projects\carlosForm\obj\Debug\carlosForm.Form2.resources
